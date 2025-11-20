@@ -3,7 +3,7 @@ para comentários que não aparecerão no perfil.
 
 
 
-<h1 align="center">Olá 👋, eu sou o Natan]</h1>
+<h1 align="center">Olá 👋, eu sou o Natan</h1>
 <h3 align="center">Um dev apaixonado por ia e progrmação.</h3>
 
 ---
@@ -34,9 +34,6 @@ para comentários que não aparecerão no perfil.
   * **Ferramentas:** Git, GitHub, Docker, VS Code
   
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </p>
