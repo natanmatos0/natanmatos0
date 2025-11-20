@@ -1,9 +1,7 @@
 para comentários que não aparecerão no perfil.
 -->
 
-<p align="center">
-  <img src="URL_DA_SUA_IMAGEM_OU_GIF_AQUI" width="600" alt="Banner do Perfil">
-</p>
+
 
 <h1 align="center">Olá 👋, eu sou o Natan]</h1>
 <h3 align="center">Um dev apaixonado por ia e progrmação.</h3>
