@@ -30,6 +30,13 @@
 
 ###
 
+<h3 align="left">🔥   My projects :</h3>
+<a href="https://github.com/natanmatos0/chocolateDados">🍫Dados sobre chocolate</a><br>
+<a href="https://github.com/natanmatos0/API---Multimeios">📖API---Multimeios</a> <br>
+<a href="https://github.com/Gabriel151324/_MultiMeios">📖Site completo do multimeios</a>
+
+###
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -51,9 +58,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My projects :</h3>
-<a href="https://github.com/natanmatos0/API---Multimeios">📖API---Multimeios</a> <br>
-    <a href="https://github.com/Gabriel151324/_MultiMeios">📖Site completo do multimeios</a>
