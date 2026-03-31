@@ -33,7 +33,7 @@
 <h3 align="left">🔥   My projects :</h3>
 <a href="https://github.com/natanmatos0/chocolateDados">🍫Dados sobre chocolate</a><br>
 <a href="https://github.com/natanmatos0/API---Multimeios">📖API---Multimeios</a> <br>
-<a href="https://github.com/Gabriel151324/_MultiMeios">📖Site completo do multimeios</a>
+<a href="https://github.com/natanmatos0/_MultiMeios">📖Site completo do multimeios</a>
 
 ###
 
